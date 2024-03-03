@@ -35,7 +35,14 @@ mongoose.connect(process.env.MONGO_URI, {
 const db = mongoose.connection;
 
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
-db.once('open', () => console.log('Connected to MongoDB'));
+db.once('open', async () => {
+    console.log('Connected to MongoDB');
+    console.log(`MongoDB Atlas Connection Details: ${db.host}:${db.port}/${db.name}`);
+
+    // Sample query: Find all mazes
+    // const allMazes = await Maze.find();
+    // console.log('All mazes:', allMazes);
+});
 
 // Optionally, you can export the db connection if needed in other parts of your application
 module.exports = db;
