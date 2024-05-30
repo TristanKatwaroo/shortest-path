@@ -34,7 +34,7 @@
     <!--<a href="https://github.com/TristanKatwaroo/shortest-path"><strong>Explore the docs »</strong></a>-->
     <br />
     <br />
-    <a href="https://github.com/TristanKatwaroo/shortest-path">View Demo</a>
+    <a href="https://tristankatwaroo.com/shortest-path">Try Demo</a>
     <!-- · -->
     <!-- <a href="https://github.com/TristanKatwaroo/shortest-path/issues/new?labels=bug&template=bug-report---.md">Report Bug</a> -->
     <!-- · -->
