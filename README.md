@@ -86,15 +86,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
+<!-- ### Built With -->
+<div align="center">
+  [![Mongo][MongoDB]][Mongo-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
+</div>
 
-[![Mongo][MongoDB]][Mongo-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ## About -->
-
-<p align="center">###This project is under construction! 🚧
+<div align="center">
+  ### This project is under construction! 🚧
+</div>
 
 
 <!-- GETTING STARTED -->
