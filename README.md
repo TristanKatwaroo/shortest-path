@@ -87,13 +87,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 <!-- ### Built With -->
-<div align="center">
-  [![Mongo][MongoDB]][Mongo-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
-</div>
 
-<div align="center">
-  ### This project is under construction! 🚧
-</div>
+<!-- Centered list of technologies -->
+<p align="center">
+  [![Mongo][MongoDB]][Mongo-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
+</p>
+
+<!-- Centered construction message -->
+<h3 align="center">This project is under construction! 🚧</h3>
 
 
 <!-- GETTING STARTED -->
