@@ -31,6 +31,7 @@
   <p align="center">
     A web-game where players attempt to find the shortest possible solution to a multi-solution maze.
     <br />
+    <br />
     <!--<a href="https://github.com/TristanKatwaroo/shortest-path"><strong>Explore the docs »</strong></a>-->
     <!-- · -->
     <!-- <a href="https://github.com/TristanKatwaroo/shortest-path/issues/new?labels=bug&template=bug-report---.md">Report Bug</a> -->
