@@ -32,9 +32,6 @@
     A web-game where players attempt to find the shortest possible solution to a multi-solution maze.
     <br />
     <!--<a href="https://github.com/TristanKatwaroo/shortest-path"><strong>Explore the docs »</strong></a>-->
-    <br />
-    <br />
-    <a href="https://tristankatwaroo.com/shortest-path">Try Demo</a>
     <!-- · -->
     <!-- <a href="https://github.com/TristanKatwaroo/shortest-path/issues/new?labels=bug&template=bug-report---.md">Report Bug</a> -->
     <!-- · -->
@@ -52,6 +49,9 @@
 
 <!-- Centered construction message -->
 <h3 align="center">This project is under construction! 🚧</h3>
+<br />
+<br />
+<a href="https://tristankatwaroo.com/shortest-path">Try Demo</a>
 
 <!-- LICENSE -->
 <!-- ## License
