@@ -88,14 +88,17 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-[![Mongo][MongoDB]][Mongo-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
+<p align="center">[![Mongo][MongoDB]][Mongo-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## About
+
+This project is under construction! 🚧
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+<!--## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -125,18 +128,18 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!--## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 
 
 <!-- ROADMAP -->
