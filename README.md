@@ -48,10 +48,10 @@
 <!-- ## About -->
 
 <!-- Centered construction message -->
+<br />
 <h3 align="center">This project is under construction! 🚧</h3>
 <br />
-<br />
-<a href="https://tristankatwaroo.com/shortest-path">Try Demo</a>
+<a href="https://tristankatwaroo.com/shortest-path" align="center">Try Demo</a>
 
 <!-- LICENSE -->
 <!-- ## License
