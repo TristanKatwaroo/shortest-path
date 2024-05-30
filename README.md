@@ -51,7 +51,12 @@
 <br />
 <h3 align="center">This project is under construction! 🚧</h3>
 <br />
-<a href="https://tristankatwaroo.com/shortest-path" align="center">Try Demo</a>
+
+<div align="center">
+  <p align="center">
+    <a href="https://tristankatwaroo.com/shortest-path" align="center">Try Demo</a>
+  </p>
+</div>
 
 <!-- LICENSE -->
 <!-- ## License
