@@ -90,18 +90,18 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <!-- Centered list of technologies -->
 <!-- Centered list of technologies -->
-<p align="center">
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">
+<p align="center" style="text-decoration: none;">
+  <a href="https://reactjs.org/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" style="text-decoration: none;">
   </a>
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <a href="https://nodejs.org/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="text-decoration: none;">
   </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
+  <a href="https://expressjs.com/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" style="text-decoration: none;">
   </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <a href="https://www.mongodb.com/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="text-decoration: none;">
   </a>
 </p>
 
