@@ -88,13 +88,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-<p align="center">[![Mongo][MongoDB]][Mongo-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
+[![Mongo][MongoDB]][Mongo-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## About
+<!-- ## About -->
 
-This project is under construction! 🚧
+<p align="center">###This project is under construction! 🚧
 
 
 <!-- GETTING STARTED -->
@@ -143,7 +143,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+<!-- ## Roadmap 
 
 - [ ] Feature 1
 - [ ] Feature 2
@@ -154,7 +154,7 @@ See the [open issues](https://github.com/TristanKatwaroo/shortest-path/issues) f
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+-->
 
 <!-- CONTRIBUTING -->
 <!--## Contributing
@@ -175,12 +175,12 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+<!-- ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ -->
 
 
 <!-- CONTACT -->
